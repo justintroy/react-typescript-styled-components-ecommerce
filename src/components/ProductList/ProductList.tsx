@@ -25,5 +25,5 @@ const ProductItems = styled.div`
 `;
 
 const ProductsSection = styled.section`
-  padding: 2rem;
+  padding: 5px;
 `;

@@ -17,14 +17,13 @@ export const Cart = (props: Props) => {
 const CartDiv = styled.span`
   display: inline-block;
   position: absolute;
-  top: 2%;
+  top: 1.5%;
   right: 2%;
 `;
 
 const Icon = styled.svg`
   flex: none;
   fill: #444;
-  transition: fill 0.25s;
   width: 40px;
   height: 40px;
 `;
